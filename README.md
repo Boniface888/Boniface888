@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Boniface
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning web programming 
-- 💞️ I’m looking to collaborate on
 - 📫 How to reach me: bonifacesimon888@gmail.com 
 
 <!---
